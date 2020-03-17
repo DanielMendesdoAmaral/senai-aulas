@@ -1,0 +1,83 @@
+body {
+    background-color: #272727;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+div.bloco {
+    width: 80%;
+    height: auto;
+    background-color: red;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: wrap;
+    min-height: 200px;
+}
+
+div.caixa {
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+    background-color: royalblue;
+    margin: 10px;
+}
+
+div.justify-content-flex-start {
+    justify-content: flex-start;
+}
+
+div.justify-content-flex-end {
+    justify-content: flex-end;
+}
+
+div.justify-content-flex-between {
+    justify-content: space-between;
+}
+
+div.justify-content-flex-evenly {
+    justify-content: space-evenly;
+}
+
+div.justify-content-flex-around {
+    justify-content: space-around;
+}
+
+div.align-itens {
+    align-items: center;
+    height: 1000px;
+}
+
+div.flex-direction {
+    flex-direction: column;
+}
+
+/* justify content alinha horizontalmente, align content alinha verticalmente */
+
+div.align-content {
+    height: 1000px;
+    align-content: center;
+}
+
+div.p1 {
+    order: 5;
+}
+
+div.p2 {
+    order: 3;
+}
+
+div.p3 {
+    order: 4;
+}
+
+div.p4 {
+    order: 1;
+}
+
+div.p5 {
+    order: 2;
+}

@@ -1,0 +1,51 @@
+body {
+    background-color: #272727;
+    color: #EEEEEE
+}
+
+a {
+    color: rgb(38, 0, 255);
+}
+
+img {
+    width: 25%;
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    color: gray;
+}
+
+/* SELETOR POR CLASSE*/
+h3.vermelho {
+    color: red;
+}
+
+/* SELETOR POR ID */
+#paragrafo_principal {
+    font-family: Helvetica;
+    color: purple;
+}
+
+h1 {
+    text-align: center;
+}
+
+p.ex_margin_padding {
+    background-color: white;
+    margin: 50px;
+    padding: 25px;
+    font-weight: bold;
+    line-height: 30px;
+    font-style: italic;
+}
+
+p.descricao {
+    background-image: url("../_images/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+

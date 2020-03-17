@@ -1,0 +1,98 @@
+header {
+    background-color: #0E121E;
+    height: 180px;
+}
+
+div.cabecalho {
+    width: 1200px;
+    height: 180px; 
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+}
+
+div.cabecalho img {
+    height: 60px;
+    padding: 50px;
+}
+
+div.cabecalho ul, a {
+    display: flex;
+    list-style: none;
+    padding: 40px;
+    color: #91A3AD;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#banner {
+    width: 100%;
+    height: 100%;
+}
+
+main {
+    background-color: #0E121E;
+}
+
+div.xbox {
+    width: 1200px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+div.xbox img {
+    width: 200px;
+    padding: 30px;
+}
+
+div.produtos img {
+    width: 240px;
+    border: solid #91A3AD;
+}
+
+div.produtos figcaption {
+    color: #91A3AD;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 17px;
+    background-color: #0E121E;
+}
+
+div.produtos {
+    width: 320px;
+    
+}
+
+div.produtos h2 {
+    text-align: center;
+    font-size: 20px;
+}
+
+section.artigos {
+    display: flex;
+    padding: 100px;
+    background-color: #1B2030;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+hr {
+    color: #91A3AD;
+}
+
+footer {
+    background-color: #0E121E;
+    color: #91A3AD;
+    height: 120px;
+}
+
+div.rodape {
+    width: 1200px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 30px;
+}

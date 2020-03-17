@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header.cabecalho {
+    width: 1366px;
+    height: 150px;
+    background-color: rgb(200, 197, 204);
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+header.cabecalho img {
+    width: 150px;
+    height: 70px;
+}
+
+nav.menu {
+    width: 700px;
+    height: 50px;
+    background-color: rgb(200, 197, 204) ;
+}
+
+nav.menu ul {
+    display: flex;
+    list-style-type: none;
+}
+
+nav.menu a {
+    padding: 15px 40px;
+    color: rgb(0, 0, 0);
+    margin: 0 2px;
+}
+
+nav.menu li {
+    padding-top: 15px;
+    margin: 0;
+}
+
+main {
+    width: 1366px;
+    height: 30000px;
+    margin: 0 auto;
+    background-color: rgb(200, 197, 204);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img.banner {
+    width: 1366px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+section.conteudo_principal {
+    width: 95%;
+    height: 600px;
+    background-color: blueviolet;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+section.conteudo_principal article {
+    width: 40%;
+    border: solid 2px black;
+    padding: 15px;
+}
+
+section.conteudo_principal p {
+    padding: 15px;
+}
+
+div.artigos {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+}
+
+section.conteudo_principal h2 {
+    margin-left: 20px;
+    padding: 30px;
+}
+
+section.cursos_livres {
+    width: 95%;
+    height: 500px;
+    background-color: blueviolet;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+img.deep {
+    width: 250px;
+}
+
+div.artigos_cursos_livres {
+    display: flex;
+    padding: 30px;
+}
+
+div.artigos_cursos_livres article {
+    border: solid 2px black;
+}
+
+img.redes {
+    width: 300px;
+}
+
+img.dev {
+    width: 400px;
+}
+
+img.py {
+    width: 280px;
+}
+
+

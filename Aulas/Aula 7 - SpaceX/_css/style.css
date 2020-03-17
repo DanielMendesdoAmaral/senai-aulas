@@ -1,0 +1,68 @@
+body {
+    background-color: white;
+}
+
+div.cabecalho{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    background-color: black;
+    justify-content: center;
+}
+
+div.cabecalho ul, a{
+    list-style: none;
+    padding: 20px;
+    display:flex;
+    justify-content: space-between;
+    color: white;
+}
+img{
+    height: 25px;
+    margin-top: 2.5%;
+}
+
+
+header {
+    width: 100%;
+    background-color: black;
+}
+
+#banner {
+    height: 100%;
+    width: 100%;
+    margin-top: 0;
+}
+
+h1 {
+    text-align: center;
+    padding: 70px;
+}
+
+div.artigos img {
+    width: 250px;
+    height: 150px;
+}
+
+div.artigos {
+    width: 250px;
+    box-shadow: 1px 1px 4px black;
+    padding: 25px;
+    text-align: center;
+    margin-left: 20%;
+
+}
+
+div.artigos p {
+    color: blue;
+}
+
+#materias{
+    Display: flex;
+    margin-right: 70%;
+    padding-left: 400px;
+}
+
+
+
+    
