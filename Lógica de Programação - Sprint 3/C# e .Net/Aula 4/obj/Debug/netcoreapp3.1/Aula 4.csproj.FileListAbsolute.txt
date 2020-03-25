@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\senai-aulas\Lógica de Programação - Sprint 3\C# e .Net\Aula 4\bin\Debug\netcoreapp3.1\Aula 4.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\senai-aulas\Lógica de Programação - Sprint 3\C# e .Net\Aula 4\bin\Debug\netcoreapp3.1\Aula 4.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\senai-aulas\Lógica de Programação - Sprint 3\C# e .Net\Aula 4\bin\Debug\netcoreapp3.1\Aula 4.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\senai-aulas\Lógica de Programação - Sprint 3\C# e .Net\Aula 4\bin\Debug\netcoreapp3.1\Aula 4.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\senai-aulas\Lógica de Programação - Sprint 3\C# e .Net\Aula 4\bin\Debug\netcoreapp3.1\Aula 4.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\senai-aulas\Lógica de Programação - Sprint 3\C# e .Net\Aula 4\bin\Debug\netcoreapp3.1\Aula 4.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\senai-aulas\Lógica de Programação - Sprint 3\C# e .Net\Aula 4\obj\Debug\netcoreapp3.1\Aula 4.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\senai-aulas\Lógica de Programação - Sprint 3\C# e .Net\Aula 4\obj\Debug\netcoreapp3.1\Aula 4.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\senai-aulas\Lógica de Programação - Sprint 3\C# e .Net\Aula 4\obj\Debug\netcoreapp3.1\Aula 4.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\senai-aulas\Lógica de Programação - Sprint 3\C# e .Net\Aula 4\obj\Debug\netcoreapp3.1\Aula 4.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\senai-aulas\Lógica de Programação - Sprint 3\C# e .Net\Aula 4\obj\Debug\netcoreapp3.1\Aula 4.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\senai-aulas\Lógica de Programação - Sprint 3\C# e .Net\Aula 4\obj\Debug\netcoreapp3.1\Aula 4.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\senai-aulas\Lógica de Programação - Sprint 3\C# e .Net\Aula 4\obj\Debug\netcoreapp3.1\Aula 4.genruntimeconfig.cache
