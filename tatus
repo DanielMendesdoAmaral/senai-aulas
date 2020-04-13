@@ -1,0 +1,72 @@
+[33mcommit 099bf30cf09c3791c94e7414a8b5104b5f246bca[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 170971c 13696e3
+Author: Daniel Amaral <daniel.amaral720@gmail.com>
+Date:   Wed Apr 1 12:00:06 2020 -0300
+
+    Merge branch 'master' of https://github.com/DanielMendesdoAmaral/senai-aulas
+
+[33mcommit 170971c92b31b9136ae6cd2e355946a2b7685d2d[m
+Merge: 8cb995a bcb633c
+Author: Daniel Amaral <daniel.amaral720@gmail.com>
+Date:   Fri Mar 27 20:11:44 2020 -0300
+
+    Fluxogramas e pseudocódigos
+
+[33mcommit 13696e3c28e4a2fd1fbd7f9d8db99425523d3148[m
+Merge: 8cb995a bcb633c
+Author: Daniel Amaral <daniel.amaral720@gmail.com>
+Date:   Fri Mar 27 20:11:44 2020 -0300
+
+    Merge branch 'master' of https://github.com/DanielMendesdoAmaral/senai-aulas
+
+[33mcommit 8cb995ae2246dafe828907efe12ef87ca80d6c65[m
+Merge: 22fb374 90b30f2
+Author: Daniel Amaral <daniel.amaral720@gmail.com>
+Date:   Wed Mar 25 00:05:24 2020 -0300
+
+    Fluxogramas e pseudocódigos
+
+[33mcommit bcb633c5d56f010cd44b3b0c2745f17d363672e9[m
+Merge: 22fb374 90b30f2
+Author: Daniel Amaral <daniel.amaral720@gmail.com>
+Date:   Wed Mar 25 00:05:24 2020 -0300
+
+    Merge branch 'master' of https://github.com/DanielMendesdoAmaral/senai-aulas
+
+[33mcommit 22fb3743f4cbad6b449df6138896e0c67081bad8[m
+Merge: 7c93fa3 a666329
+Author: Daniel Amaral <daniel.amaral720@gmail.com>
+Date:   Mon Mar 23 13:08:16 2020 -0300
+
+    Fluxogramas e pseudocódigos
+
+[33mcommit 90b30f2c21f33d3f85f542a6a3d8f7baed27e006[m
+Merge: 7c93fa3 a666329
+Author: Daniel Amaral <daniel.amaral720@gmail.com>
+Date:   Mon Mar 23 13:08:16 2020 -0300
+
+    Merge branch 'master' of https://github.com/DanielMendesdoAmaral/senai-aulas
+
+[33mcommit 7c93fa3c6fc1e3c054811ecacf982730d016b0b9[m
+Author: Daniel Amaral <daniel.amaral720@gmail.com>
+Date:   Sun Mar 22 22:24:28 2020 -0300
+
+    Fluxogramas e pseudocódigos
+
+[33mcommit a66632905e3e05d6f93889f4af3b99367b7b48e0[m
+Author: Daniel Amaral <daniel.amaral720@gmail.com>
+Date:   Sun Mar 22 22:24:28 2020 -0300
+
+    Fluxogramas e pseudocódigos
+
+[33mcommit 18d01749a6d7b5063cb24e676a15fc5ac445b7af[m
+Author: Daniel Amaral <daniel.amaral720@gmail.com>
+Date:   Tue Mar 17 18:26:31 2020 -0300
+
+    Aulas
+
+[33mcommit ca6759670b4b8b8e852a645fddc968b4d3cf64c8[m
+Author: Daniel Amaral <daniel.amaral720@gmail.com>
+Date:   Tue Mar 17 18:23:51 2020 -0300
+
+    first commit
